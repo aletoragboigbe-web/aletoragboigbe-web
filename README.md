@@ -8,8 +8,7 @@
 
 <!-- 🔗 Update these links with your own social media and contact information -->
 <p align="center">
-  <a href="https://linkedin.com/in/your-profile-url"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin"></a>
-  <a href="https://youtube.com/your-channel-url"><img src="https://img.shields.io/badge/YouTube-My_Channel-red?style=for-the-badge&logo=youtube"></a>
+  <a href="www.linkedin.com/in/aletor-agboigbe-b6030391"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin"></a>
   <a href="mailto:aletor.law@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-green?style=for-the-badge&logo=gmail"></a>
 </p>
 
@@ -18,21 +17,21 @@ I'm a data analyst passionate about helping businesses make sense of their data.
 
 My focus is on building dashboards that get used, automating repetitive tasks to free up teams for more interesting problems, and creating models that help businesses plan for the future.
 
-When I'm not working with data, I enjoy [Your Hobby or Passion, e.g., playing chess,reading , mentoring others, etc.]. I love the "aha!" moment when data reveals something new and useful.
+When I'm not working with data, I enjoy Listening to music,playing chess,Learning new analytics tools or techniques, mentoring others. I love the "aha!" moment when data reveals something new and useful.
 
 <!-- 🌐 Replace "your-username" with your actual GitHub username -->
-### [🏆 Check Out My Full Portfolio Website](https://your-username.github.io/)
+### [🏆 Check Out My Full Portfolio Website](https://aletorlaw.github.io/)
       
 ## 🔭 What I'm Currently Working On 
 
-- **Project A:** [Brief, one-line description of a project, e.g., Building a sales forecasting model in Python.]  
-- **Project B:** [Brief, one-line description of another project, e.g., Creating an interactive marketing dashboard in Power BI.]
-- **Content Creation:** [e.g., Developing new tutorials on data visualization for my YouTube channel.]
+- **Project A:** Built an end to end HR analytics solution using Excel, Power Query, and Tableau to deliver real time insights on employee performance and benefits utilization, enabling data driven HR decision making.  
+- **Project B:** End-to-end web analytics project where I cleaned and merged session and engagement data in Excel, analyzed KPIs with pivot tables, and built an interactive Tableau dashboard to uncover user behavior and conversion insights.
+
 
 ## 🌱 Currently Learning 
 
-- [A new skill or technology you're exploring, e.g., Advanced machine learning techniques in Scikit-learn.]
-- [Another skill, e.g., Cloud data warehousing with Google BigQuery.]
+- Advancing my SQL skills to an advanced level 
+- Building a strong foundation in machine learning using Python
 
 ## 🛠️ Technical Skillset
 
