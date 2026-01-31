@@ -9,6 +9,12 @@
 <!-- 🔗 Update these links with your own social media and contact information -->
 <p align="center">
   <a href="https://linkedin.com/in/aletor-agboigbe-b6030391"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin"></a>
+  ### 💻 GitHub Profile
+
+Explore my data analytics projects, dashboards, and code samples across Excel, Power BI, SQL, Python, and Tableau.
+
+[![GitHub Profile](https://img.shields.io/badge/GitHub-View%20My%20Profile-black?style=for-the-badge&logo=github)](https://github.com/aletoragboigbe-web)
+
   <a href="mailto:aletor.law@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-green?style=for-the-badge&logo=gmail"></a>
 </p>
 
