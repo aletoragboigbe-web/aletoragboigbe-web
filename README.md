@@ -12,7 +12,7 @@
   <a href="mailto:aletor.law@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-green?style=for-the-badge&logo=gmail"></a>
 </p>
 
-## 🚀 About Me 
+## 📍 About Me 
 I'm a data analyst passionate about helping businesses make sense of their data. I enjoy transforming complex, messy datasets into clear stories and actionable insights.
 
 My focus is on building dashboards that get used, automating repetitive tasks to free up teams for more interesting problems, and creating models that help businesses plan for the future.
@@ -20,12 +20,12 @@ My focus is on building dashboards that get used, automating repetitive tasks to
 When I'm not working with data, I enjoy Listening to music,playing chess,Learning new analytics tools or techniques, mentoring others. I love the "aha!" moment when data reveals something new and useful.
 
 <!-- 🌐 Replace "your-username" with your actual GitHub username -->
-### [🏆 Check Out My Full Portfolio Website](https://aletorlaw.github.io/)
+### [🚀 Check Out My Full Portfolio Website](https://aletorlaw.github.io/)
       
 ## 🔭 What I'm Currently Working On 
 
 - **Project A:** Built an end to end HR analytics solution using Excel, Power Query, and Tableau to deliver real time insights on employee performance and benefits utilization, enabling data driven HR decision making.  
-- **Project B:** End-to-end web analytics project where I cleaned and merged session and engagement data in Excel, analyzed KPIs with pivot tables, and built an interactive Tableau dashboard to uncover user behavior and conversion insights.
+- **Project B:** End-to-end web analytics project where I cleaned and merged session and engagement data in Excel, analyzed KPIs with pivot tables, and built an interactive Tableau dashboard to uncover user behaviour and conversion insights.
 
 
 ## 🌱 Currently Learning 
