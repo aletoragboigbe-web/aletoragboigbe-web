@@ -18,9 +18,6 @@ I'm a data analyst passionate about helping businesses make sense of their data.
 My focus is on building dashboards that get used, automating repetitive tasks to free up teams for more interesting problems, and creating models that help businesses plan for the future.
 
 When I'm not working with data, I enjoy Listening to music,playing chess,Learning new analytics tools or techniques, mentoring others. I love the "aha!" moment when data reveals something new and useful.
-
-<!-- 🌐 Replace "your-username" with your actual GitHub username -->
-### [🚀 Check Out My Full Portfolio Website](https://aletorlaw.github.io/)
       
 ## 🔭 What I'm Currently Working On 
 
@@ -58,3 +55,6 @@ When I'm not working with data, I enjoy Listening to music,playing chess,Learnin
   <img src="https://img.shields.io/badge/Predictive%20Modeling-Intermediate-45B7D1?style=flat" alt="Predictive Modeling Skill Badge">
   <img src="https://img.shields.io/badge/KPI%20Development-Expert-96CEB4?style=flat" alt="KPI Development Skill Badge">
 </p>
+
+<!-- 🌐 Replace "your-username" with your actual GitHub username -->
+### [🚀 Check Out My Full Portfolio Website](https://aletorlaw.github.io/)
